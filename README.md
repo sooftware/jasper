@@ -13,7 +13,7 @@ I appreciate any kind of feedback or contribution.
 import torch
 from jasper import Jasper
 
-BATCH_SIZE, SEQ_LENGTH, DIM = 3, 14321, 80
+BATCH_SIZE, SEQ_LENGTH, DIM = 3, 12345, 80
 
 cuda = torch.cuda.is_available()
 device = torch.device('cuda' if cuda else 'cpu')
