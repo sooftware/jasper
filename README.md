@@ -4,7 +4,8 @@ PyTorch implementation of [Jasper: An End-to-End Convolutional Neural Acoustic M
   
 <img src="https://media.arxiv-vanity.com/render-output/3770675/JasperVerticalDR_3.png" height=500>
   
-Jasper (Just Another SPEech Recognizer) is a end-to-end convolutional neural acoustic model. Jasper uses only 1D convolutions, batch normalization, ReLU, dropout, and residual connections, but has shown powerful performance. This repository contains only model code, but you can train with jasper with [this repository](https://github.com/sooftware/KoSpeech). I appreciate any kind of feedback or contribution.  
+Jasper (Just Another SPEech Recognizer) is a end-to-end convolutional neural acoustic model. Jasper uses only 1D convolutions, batch normalization, ReLU, dropout, and residual connections, but has shown powerful performance. This repository contains only model code, but you can train with jasper with [this repository](https://github.com/sooftware/KoSpeech).   
+I appreciate any kind of feedback or contribution.  
   
 ## Usage  
   
