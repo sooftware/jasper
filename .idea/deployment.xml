@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="bc" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="bc">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

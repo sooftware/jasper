@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9a5a600d-d46b-4d74-8696-c337126bdbc6" name="bc">
+        <fileTransfer accessType="SFTP" host="brain-cluster-gpu5.dakao.io" port="24090" sshConfigId="7c57f561-5de9-416f-a78c-a1a685c17e1b" sshConfig="root@brain-cluster-gpu5.dakao.io:24090 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
