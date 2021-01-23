@@ -14,6 +14,9 @@
      <a href="https://www.python.org/dev/peps/pep-0008/">
           <img src="http://img.shields.io/badge/codestyle-PEP--8-informational"> 
      </a>
+     <a href="https://github.com/sooftware/jasper">
+          <img src="http://img.shields.io/badge/build-passing-success"> 
+     </a>
   
 Jasper (Just Another SPEech Recognizer) is a end-to-end convolutional neural acoustic model. Jasper uses only 1D convolutions, batch normalization, ReLU, dropout, and residual connections, but has shown powerful performance. This repository contains only model code, but you can train with jasper with [this repository](https://github.com/sooftware/KoSpeech).   
 I appreciate any kind of feedback or contribution.  
