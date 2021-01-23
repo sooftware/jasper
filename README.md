@@ -1,6 +1,6 @@
 <p  align="center"><img src="https://user-images.githubusercontent.com/42150335/105607042-f128b880-5ddf-11eb-83e0-5f6f25bfc3dd.png" height=100>
   
-<p  align="center">An Apache 2.0 PyTorch implementation of Jasper: An End-to-End Convolutional Neural Acoustic Model (Jason Li et al., 2019).
+<p  align="center">An Apache 2.0 PyTorch implementation of Jasper: An End-to-End Convolutional Neural Acoustic Model.
 
 ***
 
